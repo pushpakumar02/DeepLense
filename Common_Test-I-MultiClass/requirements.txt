@@ -1,0 +1,21 @@
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+tqdm==4.65.0
+
+
+# Steps:
+# 1. Install dependencies:
+#    pip install -r requirements.txt
+
+# 2. Download ResNet18 weights:
+#    - Manually download resnet18-f37072fd.pth from PyTorch's model zoo:
+#      https://download.pytorch.org/models/resnet18-f37072fd.pth
+#    - Place it in the Downloads folder (no need to move it elsewhere).
+
+# 3. Replace folder paths:
+#    - Update `project_root` to your dataset folder path.
+#    - Update `weights_path` to: "/Users/your_username/Downloads/resnet18-f37072fd.pth"

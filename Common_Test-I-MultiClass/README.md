@@ -34,7 +34,7 @@ This project involves building a model to classify gravitational lensing images 
 1. **Terminal Output**: ![Phase 3 Terminal](results/phase3_terminal.png)
 2. **Training and Validation Loss Curves**: ![Loss Curves](results/loss_curves.png)
 3. **ROC Curve**: ![ROC Curve](results/roc_curve.png)
-4. **Confusion Matrix**: ![Confusion Matrix](screenshots/confusion_matrix.png)
+4. **Confusion Matrix**: ![Confusion Matrix](results/confusion_matrix.png)
 
 ## How to Run
 1. Clone the repository.

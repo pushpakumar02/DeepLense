@@ -45,5 +45,5 @@ This project involves building a model to classify gravitational lensing images 
 
 ## Files
 - `model.ipynb`: Implementation and evaluation.
-- `best_model.pth`: Trained model weights.
+- `best_model.pth`: Trained model weights. [Download here](https://drive.google.com/file/d/1zmzhRGJJuyr7Iio9i3ZuNFegBBxLBUwC/view?usp=drive_link)
 - `results/`: Folder containing result screenshots and terminal outputs.

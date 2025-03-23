@@ -15,7 +15,7 @@ This project involves building a binary classification model to identify gravita
 - **Optimizer**: Adam with learning rate 0.0001.
 
 ## Results
-1. **Best Test Accuracy**: [Insert Best Accuracy Here](results/terminal_accuracy.png)
+1. **Best Test Accuracy**: ![Best Accuracy Here](results/terminal_accuracy.png)
 2. **Loss Curves**: ![Loss Curves](results/loss_curves.png)
 3. **ROC Curve**: ![ROC Curve](results/roc_curve.png)
 4. **Confusion Matrix**: ![Confusion Matrix](results/confusion_matrix.png)

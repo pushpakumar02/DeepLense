@@ -33,6 +33,17 @@ This project implements a physics-informed deep learning model for classifying g
 - **Class Weights**: [1.0, 1.5, 1.2] (to handle imbalance)
 - **Early Stopping**: Triggered if validation accuracy < 90% after 10 epochs
 
+## Model Weights Download
+
+Download the pretrained model weights:
+
+- **Physics-Informed Model**:  
+  [best_physics_model.pth](https://drive.google.com/file/d/1FucjgLUny_g-brwWCHwzsKpw1gac6G1V/view?usp=sharing)  
+  
+- **Baseline Model**:  
+  [best_model.pth](https://drive.google.com/file/d/1LqxyEX1DdMZdFGn01sjB1CQVheWW9Yan/view?usp=sharing)  
+  
+
 ## Results
 Outputs are saved in the `results/` folder:
 
@@ -44,6 +55,13 @@ Outputs are saved in the `results/` folder:
   ![Confusion Matrix](results/confusion_matrix.png)
 - **ROC Curves**: `roc_curve.png`
   ![ROC Curves](results/roc_curve.png)
+
+## How to Run
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Run the model:
+   - **Option 1**: Execute the Python script: `python model.py`.
+   - **Option 2**: Run the Jupyter Notebook: `model.ipynb`.
 
 ## How to Run
 1. Clone the repository.

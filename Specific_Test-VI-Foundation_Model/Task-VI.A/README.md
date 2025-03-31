@@ -31,13 +31,13 @@ This project implements a self-supervised Masked Autoencoder (MAE) and a classif
 - **Best Classifier Weights**: `best_classifier.pth`
 - **Visualizations**:
   - Best Test Accuracy: 
-    ![Best Accuracy](results/terminal_accuracy.png)
+    ![Best Accuracy](https://github.com/pushpakumar02/DeepLense/blob/main/Specific_Test-VI-Foundation_Model/Task-VI.A/outputs/terminal_accuracy.png)
   - ROC Curve:  
-    ![ROC Curve](results/roc_curve.png)
+    ![ROC Curve](https://github.com/pushpakumar02/DeepLense/blob/main/Specific_Test-VI-Foundation_Model/Task-VI.A/outputs/roc_curve.png)
   - Confusion Matrix:  
-    ![Confusion Matrix](results/confusion_matrix.png)
+    ![Confusion Matrix](https://github.com/pushpakumar02/DeepLense/blob/main/Specific_Test-VI-Foundation_Model/Task-VI.A/outputs/confusion_matrix.png)
   - Training Loss & Accuracy Curves:  
-    ![Training Curves](results/training_curves.png)
+    ![Training Curves](https://github.com/pushpakumar02/DeepLense/blob/main/Specific_Test-VI-Foundation_Model/Task-VI.A/outputs/training_curves.png)
 
 ## How to Run
 1. Clone the repository.

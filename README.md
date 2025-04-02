@@ -4,7 +4,7 @@
 ```
 DeepLense/
 │
-├── Common_Test_I/
+├── Common_Test-I-MultiClass/
 │   ├── model.py
 │   ├── model.ipynb
 │   ├── best_model.pth
@@ -12,7 +12,7 @@ DeepLense/
 │   ├── README.md
 │   └── results/
 │
-├── Specific_Test_II/
+├── Specific_Test-II-Lens_Finding_Binary_Classification/
 │   ├── model.py
 │   ├── model.ipynb
 │   ├── best_lens_finder_model.pth
